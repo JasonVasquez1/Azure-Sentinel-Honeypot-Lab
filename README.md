@@ -1,6 +1,6 @@
 # Azure Sentinel HoneypotLab
 # Overview:
-This project simulates a real world SOC environment using Azure Sentinel. It involved deploying a cloud-based honeypot, collecting and analyzing security logs, monitoring authentication attempts, and visualizing attack activity. Through this lab, I gained hands-on experience with SIEM-based threat detection, log analytics, and cloud security monitoring in Microsoft Azure.
+This project simulates a real world SOC environment using Azure Sentinel. It involved deploying a cloud-based honeypot, collecting and analyzing security logs, monitoring authentication attempts, and visualizing attack activity. Through this lab, I gained hands on experience with SIEM based threat detection, log analytics, and cloud security monitoring in Microsoft Azure.
 
 
 ## Step 1: Azure Environment
